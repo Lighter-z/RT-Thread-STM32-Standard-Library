@@ -1,0 +1,13 @@
+#注释
+
+#忽略编译产生的文件
+#预处理文件
+*.i
+#编译文件
+*.s
+#汇编文件
+*.o
+/Project/OBJ/*
+/Project/USRE/*.OMEN
+/Project/USRE/*.Administrator
+
