@@ -535,6 +535,16 @@
               <FileType>1</FileType>
               <FilePath>..\Board\board.c</FilePath>
             </File>
+            <File>
+              <FileName>drv_common.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\STM32F10x_FWLib\FWLib_Drivers\drv_common.c</FilePath>
+            </File>
+            <File>
+              <FileName>drv_usart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\STM32F10x_FWLib\FWLib_Drivers\drv_usart.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
